@@ -1,0 +1,2 @@
+The Kolpixel Archive v3
+Static HTML/CSS/JS website. No build step or package install required.
